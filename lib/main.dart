@@ -53,7 +53,6 @@ class MyApp extends StatelessWidget {
       },
       onGenerateRoute: (settings) {
         print(settings.arguments);
-        print(settings.arguments);
 
         // if (settings.name == '/meal-detail') {
         //   return ...;
